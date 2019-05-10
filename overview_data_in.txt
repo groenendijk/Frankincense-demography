@@ -1,0 +1,24 @@
+site	site_nr	plot_data	ring_data	fec_data	yield	low_high	elevation	prec	temp	perc<7cmDBH	perc<4cmDBH	reg			
+Jebel Marra	1	Abergelle	Abergelle	Abergelle	Abergelle	highland	1359	595	22.7	0.0%	0.0%	no_reg			
+Rashad	2	Lemlem Terara	Metema	Lemlem Terara	Metema	lowland	852	718	26.6	0.1%	0.0%	no_reg			
+Kurmuk	3	Kuara	Assosa	Kuara	Metema	lowland	668	949	26.9	41.3%	5.1%	reg			
+Gulashe	4	Kuara	Assosa	Kuara	Metema	lowland	720	949	26.9	1.1%	0.0%	no_reg			
+Eshefabego	5	Lemlem Terara	Assosa	Lemlem Terara	Metema	lowland	915	1097	24.8	6.5%	0.5%	no_reg			
+Baneshegol	6	Lemlem Terara	Assosa	Lemlem Terara	Metema	lowland	920	1097	24.8	33.8%	4.4%	reg			
+Arenja	7	Kuara	Assosa	Kuara	Metema	lowland	630	1100	25.1	53.3%	15.0%	reg			
+Kuara	8	Kuara	Metema	Kuara	Metema	lowland	604	960	27.7	0.0%	0.0%	no_reg			
+Lemlem Terara	9	Lemlem Terara	Metema	Lemlem Terara	Metema	lowland	878	960	27.7	0.2%	0.0%	no_reg			
+Kafta-Humera	10	Abergelle	Abergelle	Abergelle	Abergelle	lowland	1018	536	27.2	0.7%	0.2%	no_reg			
+Shilalo	11	Abergelle	Abergelle	Abergelle	Abergelle	lowland	1080	516	25.1	0.7%	0.7%	no_reg			
+Tahitay-Adiabo	12	Abergelle	Abergelle	Abergelle	Abergelle	lowland	1070	516	25.1	0.2%	0.0%	no_reg			
+Molki	13	Abergelle	Abergelle	Abergelle	Abergelle	highland	1230	600	23.6	1.7%	0.7%	no_reg			
+Ferhen	14	Abergelle	Abergelle	Abergelle	Abergelle	highland	1270	489	23.1	0.0%	0.0%	no_reg			
+Adi-Ketina	15	Abergelle	Abergelle	Abergelle	Abergelle	highland	1520	655	20.9	1.1%	0.0%	no_reg			
+Atawen	16	Abergelle	Abergelle	Abergelle	Abergelle	highland	1530	612	21.8	3.5%	0.0%	no_reg			
+Asgede-Tsimbla	17	Abergelle	Abergelle	Abergelle	Abergelle	highland	1140	580	22.2	0.1%	0.0%	no_reg			
+Abergelle	18	Abergelle	Abergelle	Abergelle	Abergelle	highland	1636	800	21.8	0.1%	0.0%	no_reg			
+Adi Arkay	19	Adi Arkay	NA	Abergelle	Abergelle	highland	1475	923	18.0	20.3%	4.1%	reg			
+Hamusit	20	Abergelle	Abergelle	Abergelle	Abergelle	highland	1650	1031	21.9	0.8%	0.8%	no_reg			
+Kisha	21	Abergelle	Abergelle	Abergelle	Abergelle	highland	1240	869	23.7	20.4%	7.4%	reg			
+Mosebit	22	Abergelle	Abergelle	Abergelle	Abergelle	highland	1150	1283	23.6	2.3%	0.0%	no_reg			
+Wogdi	23	Abergelle	Abergelle	Abergelle	Abergelle	highland	1550	1126	16.5	0.9%	0.0%	no_reg			
